@@ -22,3 +22,11 @@ jobs:
           LANG: es
           # ISO Langusge Code.
           # Supported Languages below
+
+      - name: Translate Readme Action
+        # You may pin to the exact commit or the version.
+        # uses: dephraiim/translate-readme@e880ba3fc519efeab0368619207604003e7049f8
+        uses: dephraiim/translate-readme@v1
+        with:
+          # The Language you want to translate to
+          LANG: es
