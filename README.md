@@ -20,7 +20,7 @@ Original version created by: [@Syknapse](https://github.com/Syknapse/My-Learning
 |**Git**                           | ![done][done]     | ![done][done]          |                  |
 |**Git bash**                      | ![done][done]     | ![done][done]          |                  |
 |**GitHub**                        | ![done][done]     | ![done][done]          |                  |
-|**ES6**                           | ![Soon][Soon]     | ![Soon][Soon]          |![Soon][Soon]     |
+|**ES6**                           | ![done][done]     | ![done][done]          |![done][done]     |
 |**Sass**                          |                   |                        |                  |
 |**PostCSS**                       |                   |                        |                  |
 |**jQuery**                        |                   |                        |                  | 
