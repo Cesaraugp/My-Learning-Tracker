@@ -11,6 +11,14 @@
 
 ----------------------------------------------------------
 
+## 21 Oct 20
+
+Started [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/) on [Freecodecamp.org](https://www.freecodecamp.org).
+
+[Log Index]
+
+----------------------------------------------------------
+
 ## 20 Oct 20
 
 Completed [Responsive Web Design Certification](https://www.freecodecamp.org/certification/cesaraugp/responsive-web-design) from [Freecodecamp.org](https://www.freecodecamp.org).
