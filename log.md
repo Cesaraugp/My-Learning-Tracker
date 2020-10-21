@@ -27,4 +27,4 @@ Completed [Responsive Web Design Certification](https://www.freecodecamp.org/cer
 
 ----------------------------------------------------------
 
-[Log Index]: https://github.com/Syknapse/My-Learning-Tracker/blob/master/log-index.md#log-index
+[Log Index]: https://github.com/cesaraugp/My-Learning-Tracker/blob/master/log-index.md#log-index
