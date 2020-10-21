@@ -20,7 +20,7 @@ Original version created by: [@Syknapse](https://github.com/Syknapse/My-Learning
 |**Git**                           | ![done][done]     | ![done][done]          |                  |
 |**Git bash**                      | ![done][done]     | ![done][done]          |                  |
 |**GitHub**                        | ![done][done]     | ![done][done]          |                  |
-|**ES6**                           | ![Soon][Soon]     |                        |                  |
+|**ES6**                           | ![Soon][Soon]     | ![Soon][Soon]          |![Soon][Soon]     |
 |**Sass**                          |                   |                        |                  |
 |**PostCSS**                       |                   |                        |                  |
 |**jQuery**                        |                   |                        |                  | 
@@ -69,7 +69,7 @@ Original version created by: [@Syknapse](https://github.com/Syknapse/My-Learning
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     |    2020    | [Responsive Web Design]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] |    2020    | [Experto en Administración Web]                                 | [Fatla.org]                                 |
-| ![Soon][Soon]               |            | [JavaScript Algorithms and Data Structures]                     | [Free Code Camp]                            |
+| ![In Progress][In Progress] |    2020    | [JavaScript Algorithms and Data Structures]                     | [Free Code Camp]                            |
 | ![Soon][Soon]               |            | [Full Stack Online Curriculum]                                  | [App Academy Open]                          |
 
 [//]: # (Reference links to courses)
@@ -107,11 +107,10 @@ Original version created by: [@Syknapse](https://github.com/Syknapse/My-Learning
 ----
 
 ## Highlights
-Available soon! :eyes:
-<!--The most interesting of what I'm watching, reading, and doing:
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
-And here is a chronological log of the highlights of my learning:
-[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)-->
+
+Important concepts explained in 100 Seconds and some tutorials by [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA "Fireship Youtube Chammel")
+Crash courses and tutorials about Web Development by [Brad Traversy](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA "Traversy Media Youtube Channel")
+Web Development Tutorials by [Jon Mircha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ "Jon Mircha Youtube Channel")
 
 ----
 
@@ -127,11 +126,10 @@ I'm currently interested in/excited about:
 
 ## Web Development Checklist
 
-<!--This is a list of basic objectives to meet on the road to mastering web development.-->
-To Be updated Soon :eyes: !
+This is a list of basic objectives to meet on the road to mastering web development.
 
-<!-- It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155) -->
-<!-- 
+It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155) 
+ 
 * [x] Open the computer’s terminal
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
@@ -153,7 +151,7 @@ To Be updated Soon :eyes: !
 * [ ] Contribute to open source
 * [ ] Get paid to code
 * [ ] When people ask what you do, respond saying you’re a developer :)
--->
+
 ----
 
 If you find this useful for your own needs you are welcome to fork a copy from me or checkout the original repo, customise it or even give it a star.
@@ -162,10 +160,11 @@ You can [follow me on Twitter](https://twitter.com/cesaraugp "@cesaraugp")
 ----
 
 ### Acknowledgments
-<!--
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
--->
-This Section will be updated soon :eyes:
+
+This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project, [Kamran Ahmed](https://twitter.com/kamranahmedse) and his amazing [Front-End Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) Learning Path, [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+
+And of course, i have to acknowledge [Syk Houdeib](https://github.com/syknapse "@syknapse") for making the original repository and inspire with his story: [How I switched careers and got a developer job in 10 months: a true story](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/) to finally take action in making my dream a reality.
+
 
 ### License
 
