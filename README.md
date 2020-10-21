@@ -109,7 +109,9 @@ Original version created by: [@Syknapse](https://github.com/Syknapse/My-Learning
 ## Highlights
 
 Important concepts explained in 100 Seconds and some tutorials by [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA "Fireship Youtube Chammel")
+
 Crash courses and tutorials about Web Development by [Brad Traversy](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA "Traversy Media Youtube Channel")
+
 Web Development Tutorials by [Jon Mircha](https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ "Jon Mircha Youtube Channel")
 
 ----
