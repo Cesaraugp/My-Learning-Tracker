@@ -13,17 +13,19 @@ Original version created by: [@Syknapse](https://github.com/Syknapse/My-Learning
 
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Git**                           | ![done][done]     | ![done][done]          |                  |
-|**Git bash**                      | ![done][done]     | ![done][done]          |                  |
-|**GitHub**                        | ![done][done]     | ![done][done]          |                  |
-|**ES6**                           | ![done][done]     | ![done][done]          |![done][done]     |
+|**HTML5**                         |        ✅         |        ✅             |        ✅       |
+|**CSS3**                          |        ✅         |        ✅             |        ✅       |
+|**CSS Grid & Flex-box**           |        ✅         |        ✅             |        ✅       |
+|**JavaScript**                    |        ✅         |        ✅             |        ✅       |
+|**Git**                           |        ✅         |        ✅             |        ✅       |
+|**Git bash**                      |        ✅         |                        |                 |
+|**GitHub**                        |        ✅         |        ✅             |        ✅       |
+|**ES6**                           |        ✅         |        ✅             |        ✅       |
+|**jQuery**                        |        ✅         |        ✅             |                  | 
+|**Typescript**                    |                    |                       |                  | 
+
 |**Sass**                          |                   |                        |                  |
 |**PostCSS**                       |                   |                        |                  |
-|**jQuery**                        |                   |                        |                  | 
 ... 
 <!--
 |**React**                         |                   |                        |                  |
@@ -136,7 +138,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
 * [ ] Write tests for your code
-* [ ] Help another web developer with something they’re having trouble with
+* [x] Help another web developer with something they’re having trouble with
 * [ ] Attend an event about web development
 * [x] Follow developers you admire on social media
 * [ ] Read a book about coding
@@ -151,7 +153,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [ ] Get paid to code
+* [x] Get paid to code
 * [ ] When people ask what you do, respond saying you’re a developer :)
 
 ----
